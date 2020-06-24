@@ -13,7 +13,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 
 <br>
-dataset: [Housing Sales](https://www.kaggle.com/c/home-data-for-ml-course/data)
+* **Dataset**:[Housing Sales](https://www.kaggle.com/c/home-data-for-ml-course/data)
 
 
 <hr>
